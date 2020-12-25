@@ -1,0 +1,1560 @@
+country_name_short,start_date,country_name,description
+AUS,1901-03-30,Australia,Barton
+AUS,1903-09-24,Australia,Deakin I
+AUS,1904-04-27,Australia,Watson
+AUS,1904-08-18,Australia,Reid
+AUS,1905-07-05,Australia,Deakin II
+AUS,1908-11-13,Australia,Fisher I
+AUS,1909-06-02,Australia,Deakin III
+AUS,1910-04-29,Australia,Fisher II
+AUS,1913-06-24,Australia,Cook
+AUS,1914-09-17,Australia,Fisher III
+AUS,1915-10-27,Australia,Hughes I
+AUS,1916-11-14,Australia,Hughes II
+AUS,1917-02-17,Australia,Hughes III
+AUS,1917-05-05,Australia,Hughes IV
+AUS,1918-01-10,Australia,Hughes V
+AUS,1919-12-13,Australia,Hughes VI
+AUS,1923-02-09,Australia,Bruce I
+AUS,1925-11-14,Australia,Bruce II
+AUS,1928-11-17,Australia,Bruce III
+AUS,1929-10-22,Australia,Scullin
+AUS,1932-01-06,Australia,Lyons I
+AUS,1934-11-09,Australia,Lyons II
+AUS,1937-10-23,Australia,Lyons III
+AUS,1939-04-07,Australia,Page
+AUS,1939-04-26,Australia,Menzies I
+AUS,1940-03-14,Australia,Menzies II
+AUS,1940-10-28,Australia,Menzies III
+AUS,1941-08-29,Australia,Fadden
+AUS,1941-10-07,Australia,Curtin I
+AUS,1943-09-21,Australia,Curtin II
+AUS,1945-07-06,Australia,Forde
+AUS,1945-07-13,Australia,Chifley I
+AUS,1946-11-01,Australia,Chifley II
+AUS,1949-12-19,Australia,Menzies IV
+AUS,1951-05-11,Australia,Menzies V
+AUS,1954-07-09,Australia,Menzies VI
+AUS,1956-01-11,Australia,Menzies VII
+AUS,1958-12-10,Australia,Menzies IIX
+AUS,1961-12-22,Australia,Menzies IX
+AUS,1963-12-18,Australia,Menzies X
+AUS,1966-01-26,Australia,Holt I
+AUS,1966-12-14,Australia,Holt II
+AUS,1967-12-19,Australia,McEwen
+AUS,1968-01-10,Australia,Gorton I
+AUS,1968-02-28,Australia,Gorton II
+AUS,1969-11-12,Australia,Gorton III
+AUS,1971-03-10,Australia,McMahon
+AUS,1972-12-19,Australia,Whitlam I
+AUS,1974-06-12,Australia,Whitlam II
+AUS,1975-11-11,Australia,Fraser I
+AUS,1975-12-22,Australia,Fraser II
+AUS,1977-12-20,Australia,Fraser III
+AUS,1980-11-03,Australia,Fraser IV
+AUS,1983-03-11,Australia,Hawke I
+AUS,1984-12-13,Australia,Hawke II
+AUS,1987-07-24,Australia,Hawke III
+AUS,1990-04-04,Australia,Hawke IV
+AUS,1991-12-20,Australia,Keating I
+AUS,1993-03-24,Australia,Keating II
+AUS,1996-03-11,Australia,Howard I
+AUS,1998-10-21,Australia,Howard II
+AUS,2001-11-26,Australia,Howard III
+AUS,2004-10-26,Australia,Howard IV
+AUS,2007-12-03,Australia,Rudd
+AUS,2010-06-24,Australia,Gillard I
+AUS,2010-09-14,Australia,Gillard II
+AUS,2013-06-27,Australia,Rudd II
+AUS,2013-09-18,Australia,Abbott
+AUS,2015-09-15,Australia,Turnbull I
+AUS,2016-07-19,Australia,Turnbull II
+AUS,2018-08-24,Australia,Morrison I
+AUS,2019-05-29,Australia,Morrison II
+AUT,1919-03-15,Austria,Renner II
+AUT,1919-10-17,Austria,Renner III
+AUT,1920-07-07,Austria,Mayr I
+AUT,1920-11-20,Austria,Mayr II
+AUT,1921-06-21,Austria,Schober I
+AUT,1922-01-27,Austria,Schober II
+AUT,1922-05-31,Austria,Seipel I
+AUT,1923-04-17,Austria,Seipel II
+AUT,1923-11-20,Austria,Seipel III
+AUT,1924-11-20,Austria,Ramek I
+AUT,1926-01-15,Austria,Ramek II
+AUT,1926-10-20,Austria,Seipel IV
+AUT,1927-05-19,Austria,Seipel V
+AUT,1929-05-04,Austria,Streeruwitz
+AUT,1929-09-26,Austria,Schober III
+AUT,1930-09-30,Austria,Vaugoin
+AUT,1930-12-04,Austria,Ender
+AUT,1931-06-20,Austria,Buresch I
+AUT,1932-01-29,Austria,Buresch II
+AUT,1932-05-20,Austria,Dollfuß
+AUT,1945-04-27,Austria,Renner IV
+AUT,1945-12-04,Austria,Figl I
+AUT,1947-11-20,Austria,Figl II
+AUT,1949-11-08,Austria,Figl III
+AUT,1952-10-28,Austria,Figl IV
+AUT,1953-04-02,Austria,Raab I
+AUT,1956-06-29,Austria,Raab II
+AUT,1959-07-16,Austria,Raab III
+AUT,1960-11-03,Austria,Raab IV
+AUT,1961-04-11,Austria,Gorbach I
+AUT,1962-11-18,Austria,Gorbach II
+AUT,1963-03-27,Austria,Gorbach III
+AUT,1964-04-02,Austria,Klaus I
+AUT,1965-10-25,Austria,Klaus II
+AUT,1966-04-19,Austria,Klaus III
+AUT,1970-04-21,Austria,Kreisky I
+AUT,1971-11-04,Austria,Kreisky II
+AUT,1975-10-28,Austria,Kreisky III
+AUT,1979-06-05,Austria,Kreisky IV
+AUT,1983-05-24,Austria,Sinowatz
+AUT,1986-06-16,Austria,Vranitzky I
+AUT,1987-01-21,Austria,Vranitzky II
+AUT,1990-12-17,Austria,Vranitzky III
+AUT,1994-11-29,Austria,Vranitzky IV
+AUT,1996-03-12,Austria,Vranitzky V
+AUT,1997-01-28,Austria,Klima I
+AUT,1999-10-03,Austria,Klima II
+AUT,2000-02-04,Austria,Schuessel I
+AUT,2002-11-24,Austria,Schuessel II
+AUT,2003-02-28,Austria,Schuessel III
+AUT,2005-04-05,Austria,Schuessel IV
+AUT,2007-01-11,Austria,Gusenbauer
+AUT,2008-12-02,Austria,Faymann I
+AUT,2013-12-16,Austria,Faymann II
+AUT,2016-05-17,Austria,Kern
+AUT,2017-12-18,Austria,Kurz I
+AUT,2019-06-03,Austria,Bierlein I
+AUT,2019-09-29,Austria,Bierlein II
+AUT,2020-01-07,Austria,Kurz II
+BEL,1900-05-27,Belgium,De Smet de Naeyer I
+BEL,1902-05-25,Belgium,De Smet de Naeyer II
+BEL,1906-05-27,Belgium,De Smet de Naeyer III
+BEL,1907-12-31,Belgium,De Trooz
+BEL,1908-01-09,Belgium,Schollaert
+BEL,1910-05-22,Belgium,Schollaert II
+BEL,1911-06-18,Belgium,De Broquevile I
+BEL,1912-06-02,Belgium,De Broquevile II
+BEL,1914-05-24,Belgium,De Broquevile III
+BEL,1918-06-01,Belgium,Cooreman
+BEL,1918-11-21,Belgium,Delacroix I
+BEL,1919-12-02,Belgium,Delacroix II
+BEL,1920-11-20,Belgium,Carton de Wiart
+BEL,1921-12-16,Belgium,Theunis I
+BEL,1924-03-11,Belgium,Theunis II
+BEL,1925-05-13,Belgium,Van de Vyvere
+BEL,1925-06-17,Belgium,Poullet
+BEL,1926-05-20,Belgium,Jasper
+BEL,1927-11-27,Belgium,Jasper II
+BEL,1929-05-26,Belgium,Jasper III
+BEL,1931-06-06,Belgium,Renkin
+BEL,1932-10-22,Belgium,De Broquevile IV
+BEL,1934-11-20,Belgium,Theunis III
+BEL,1935-03-25,Belgium,Van Zeeland I
+BEL,1936-06-13,Belgium,Van Zeeland II
+BEL,1937-11-24,Belgium,Janson
+BEL,1938-05-15,Belgium,Spaak I
+BEL,1939-02-22,Belgium,Pierlot I
+BEL,1939-04-18,Belgium,Pierlot II
+BEL,1939-09-03,Belgium,Pierlot III
+BEL,1944-09-26,Belgium,Pierlot IV
+BEL,1944-12-12,Belgium,Pierlot V
+BEL,1945-02-12,Belgium,Van Acker I
+BEL,1945-08-02,Belgium,Van Acker II
+BEL,1946-03-13,Belgium,Spaak II
+BEL,1946-03-31,Belgium,Van Acker III
+BEL,1946-08-03,Belgium,Huysmans
+BEL,1947-03-20,Belgium,Spaak III
+BEL,1948-11-26,Belgium,Spaak IV
+BEL,1949-08-11,Belgium,Eyskens G I
+BEL,1950-06-08,Belgium,Duvieusart
+BEL,1950-08-16,Belgium,Pholien
+BEL,1952-01-15,Belgium,Houtte
+BEL,1954-04-22,Belgium,Van Acker IV
+BEL,1958-06-23,Belgium,Eyskens G II
+BEL,1958-11-06,Belgium,Eyskens G III
+BEL,1961-04-25,Belgium,Lefevre
+BEL,1965-07-27,Belgium,Harmel
+BEL,1966-03-19,Belgium,Vanden Boeynants I
+BEL,1968-06-17,Belgium,Eyskens G IV
+BEL,1972-01-21,Belgium,Eyskens G V
+BEL,1973-01-26,Belgium,Leburton
+BEL,1974-04-25,Belgium,Tindemans I
+BEL,1974-06-11,Belgium,Tindemans II
+BEL,1977-03-06,Belgium,Tindemans III
+BEL,1977-06-03,Belgium,Tindemans IV
+BEL,1978-10-20,Belgium,Vanden Boeynants II
+BEL,1979-04-03,Belgium,Martens I
+BEL,1980-01-23,Belgium,Martens II
+BEL,1980-05-18,Belgium,Martens III
+BEL,1980-10-22,Belgium,Martens IV
+BEL,1981-04-06,Belgium,Eyskens M
+BEL,1981-12-17,Belgium,Martens V
+BEL,1985-11-28,Belgium,Martens VI
+BEL,1987-10-21,Belgium,Martens VII
+BEL,1988-05-09,Belgium,Martens VIII
+BEL,1991-11-24,Belgium,Martens IX
+BEL,1992-03-07,Belgium,Dehaene I
+BEL,1995-06-23,Belgium,Dehaene II
+BEL,1999-07-12,Belgium,Verhofstadt I
+BEL,2003-07-12,Belgium,Verhofstadt II
+BEL,2007-06-10,Belgium,Verhofstadt III
+BEL,2007-12-21,Belgium,Verhofstadt IV
+BEL,2008-03-20,Belgium,Leterme I
+BEL,2008-12-30,Belgium,Rompuy
+BEL,2009-11-25,Belgium,Leterme II
+BEL,2010-06-13,Belgium,Leterme III
+BEL,2011-12-06,Belgium,Di Rupo
+BEL,2014-05-25,Belgium,Di Rupo II
+BEL,2014-10-11,Belgium,Michel I
+BEL,2018-12-09,Belgium,Michel II
+BEL,2019-05-26,Belgium,Michel III
+BEL,2019-10-27,Belgium,Wilmes I
+BEL,2020-03-19,Belgium,Wilmes II
+BGR,1991-11-05,Bulgaria,Dimitrov
+BGR,1992-12-30,Bulgaria,Berov
+BGR,1994-10-16,Bulgaria,Indzhova
+BGR,1995-01-26,Bulgaria,Videnov
+BGR,1997-02-12,Bulgaria,Sofiyanski
+BGR,1997-05-21,Bulgaria,Kostov
+BGR,2001-07-24,Bulgaria,Sakskoburggotski
+BGR,2005-08-17,Bulgaria,Stanishev
+BGR,2009-07-27,Bulgaria,Borisov I
+BGR,2013-03-13,Bulgaria,Raikov
+BGR,2013-05-29,Bulgaria,Oresharski
+BGR,2014-08-05,Bulgaria,Bliznashki
+BGR,2014-11-07,Bulgaria,Borisov II
+BGR,2017-01-25,Bulgaria,Gerdzhikov
+BGR,2017-05-04,Bulgaria,Borisov III
+CAN,1900-11-07,Canada,Laurier I
+CAN,1904-11-03,Canada,Laurier II
+CAN,1908-10-26,Canada,Laurier III
+CAN,1911-10-10,Canada,Borden I
+CAN,1917-10-12,Canada,Borden II
+CAN,1917-12-17,Canada,Borden III
+CAN,1920-07-10,Canada,Meighen
+CAN,1921-12-29,Canada,King I
+CAN,1926-09-25,Canada,King II
+CAN,1930-08-07,Canada,Bennett
+CAN,1935-10-23,Canada,King III
+CAN,1940-03-26,Canada,King IV
+CAN,1945-06-11,Canada,King V
+CAN,1948-11-15,Canada,St-Laurent I
+CAN,1949-06-27,Canada,St-Laurent II
+CAN,1953-08-10,Canada,St-Laurent III
+CAN,1957-06-21,Canada,Diefenbaker I
+CAN,1958-03-31,Canada,Diefenbaker II
+CAN,1962-06-18,Canada,Diefenbaker III
+CAN,1963-04-22,Canada,Pearson I
+CAN,1965-12-18,Canada,Pearson II
+CAN,1968-04-20,Canada,Trudeau P I
+CAN,1968-07-06,Canada,Trudeau P II
+CAN,1972-11-27,Canada,Trudeau P III
+CAN,1974-08-08,Canada,Trudeau P IV
+CAN,1979-06-04,Canada,Clark
+CAN,1980-03-03,Canada,Trudeau V
+CAN,1984-06-30,Canada,Turner
+CAN,1984-09-17,Canada,Mulroney I
+CAN,1988-12-07,Canada,Mulroney II
+CAN,1993-06-25,Canada,Campbell
+CAN,1993-11-04,Canada,Chretien I
+CAN,1997-06-11,Canada,Chretien II
+CAN,2000-11-27,Canada,Chretien III
+CAN,2003-12-12,Canada,Martin I
+CAN,2004-07-20,Canada,Martin II
+CAN,2006-02-06,Canada,Harper I
+CAN,2008-10-30,Canada,Harper II
+CAN,2011-05-02,Canada,Harper III
+CAN,2015-11-04,Canada,Trudeau J I
+CAN,2019-10-21,Canada,Trudeau J II
+CHE,1902-12-11,Switzerland,Bundesrat 1902
+CHE,1905-10-29,Switzerland,Bundesrat 1905
+CHE,1908-10-25,Switzerland,Bundesrat 1908
+CHE,1911-12-14,Switzerland,Bundesrat 1911
+CHE,1914-10-25,Switzerland,Bundesrat 1914
+CHE,1917-06-26,Switzerland,Bundesrat 1917 I
+CHE,1917-12-13,Switzerland,Bundesrat 1917 II
+CHE,1919-12-11,Switzerland,Bundesrat 1919
+CHE,1922-12-14,Switzerland,Bundesrat 1922
+CHE,1925-12-17,Switzerland,Bundesrat 1925
+CHE,1928-12-13,Switzerland,Bundesrat 1928
+CHE,1929-12-12,Switzerland,Bundesrat 1929
+CHE,1931-12-17,Switzerland,Bundesrat 1931
+CHE,1934-03-22,Switzerland,Bundesrat 1934
+CHE,1935-12-11,Switzerland,Bundesrat 1935
+CHE,1939-12-13,Switzerland,Bundesrat 1939
+CHE,1943-12-15,Switzerland,Bundesrat 1943
+CHE,1947-12-11,Switzerland,Bundesrat 1947
+CHE,1951-12-13,Switzerland,Bundesrat 1951
+CHE,1955-12-15,Switzerland,Bundesrat 1955
+CHE,1959-12-17,Switzerland,Bundesrat 1959
+CHE,1963-12-12,Switzerland,Bundesrat 1963
+CHE,1967-12-14,Switzerland,Bundesrat 1967
+CHE,1971-12-08,Switzerland,Bundesrat 1971
+CHE,1975-12-10,Switzerland,Bundesrat 1975
+CHE,1979-12-05,Switzerland,Bundesrat 1979
+CHE,1983-12-07,Switzerland,Bundesrat 1983
+CHE,1987-12-09,Switzerland,Bundesrat 1987
+CHE,1991-12-04,Switzerland,Bundesrat 1991
+CHE,1995-12-13,Switzerland,Bundesrat 1995
+CHE,1999-12-15,Switzerland,Bundesrat 1999
+CHE,2003-12-10,Switzerland,Bundesrat 2003
+CHE,2007-12-12,Switzerland,Bundesrat 2007
+CHE,2008-12-10,Switzerland,Bundesrat 2008
+CHE,2011-12-14,Switzerland,Bundesrat 2011
+CHE,2015-12-09,Switzerland,Bundesrat 2015
+CHE,2019-12-11,Switzerland,Bundesrat 2019
+CYP,1976-09-05,Cyprus,Mouskos
+CYP,1977-08-31,Cyprus,Kyprianou I
+CYP,1978-03-08,Cyprus,Kyprianou II
+CYP,1981-05-24,Cyprus,Kyprianou III
+CYP,1983-02-28,Cyprus,Kyprianou IV
+CYP,1985-12-08,Cyprus,Kyprianou V
+CYP,1988-02-28,Cyprus,Vassiliou I
+CYP,1991-05-19,Cyprus,Vassiliou II
+CYP,1993-02-28,Cyprus,Clerides I
+CYP,1996-05-26,Cyprus,Clerides II
+CYP,1998-02-28,Cyprus,Clerides III
+CYP,2001-05-27,Cyprus,Clerides IV
+CYP,2003-02-28,Cyprus,Papadopoulos I
+CYP,2006-05-21,Cyprus,Papadopoulos II
+CYP,2008-02-28,Cyprus,Christofias I
+CYP,2010-03-02,Cyprus,Christofias II
+CYP,2011-05-22,Cyprus,Christofias III
+CYP,2011-08-05,Cyprus,Christofias IV
+CYP,2013-02-28,Cyprus,Anastasiades I
+CYP,2014-03-14,Cyprus,Anastasiades II
+CYP,2016-05-22,Cyprus,Anastasiades III
+CYP,2018-03-01,Cyprus,Anastasiades IV
+CZE,1990-06-29,Czech Republic,Pithart
+CZE,1992-07-02,Czech Republic,Klaus I
+CZE,1993-01-01,Czech Republic,Klaus II
+CZE,1996-07-02,Czech Republic,Klaus III
+CZE,1998-01-02,Czech Republic,Tosovsky
+CZE,1998-07-17,Czech Republic,Zeman
+CZE,2002-07-15,Czech Republic,Spidla
+CZE,2004-08-04,Czech Republic,Gross
+CZE,2005-04-25,Czech Republic,Paroubek
+CZE,2006-08-16,Czech Republic,Topolanek I
+CZE,2007-01-09,Czech Republic,Topolanek II
+CZE,2009-04-09,Czech Republic,Fischer
+CZE,2010-06-28,Czech Republic,Necas I
+CZE,2012-04-27,Czech Republic,Necas II
+CZE,2013-07-10,Czech Republic,Rusnok
+CZE,2014-01-17,Czech Republic,Sobotka
+CZE,2017-12-13,Czech Republic,Babis I
+CZE,2018-06-27,Czech Republic,Babis II
+DEU,1919-02-13,Germany,Scheidemann
+DEU,1919-06-22,Germany,Bauer I
+DEU,1919-10-03,Germany,Bauer II
+DEU,1920-03-29,Germany,Müller I
+DEU,1920-06-26,Germany,Fehrenbach
+DEU,1921-05-10,Germany,Wirth I
+DEU,1921-10-26,Germany,Wirth II
+DEU,1922-01-31,Germany,Wirth III
+DEU,1922-03-31,Germany,Wirth IV
+DEU,1922-11-22,Germany,Cuno
+DEU,1923-08-13,Germany,Stresemann I
+DEU,1923-11-03,Germany,Stresemann II
+DEU,1923-12-01,Germany,Marx I
+DEU,1924-04-15,Germany,Marx II
+DEU,1924-06-04,Germany,Marx III
+DEU,1925-01-16,Germany,Luther I
+DEU,1925-10-29,Germany,Luther II
+DEU,1926-01-20,Germany,Luther III
+DEU,1926-05-18,Germany,Marx IV
+DEU,1927-01-29,Germany,Marx V
+DEU,1928-06-29,Germany,Müller II
+DEU,1930-03-30,Germany,Brüning I
+DEU,1930-10-16,Germany,Brüning II
+DEU,1930-12-05,Germany,Brüning III
+DEU,1931-10-10,Germany,Brüning IV
+DEU,1932-06-02,Germany,Papen I
+DEU,1932-09-12,Germany,Papen II
+DEU,1932-12-03,Germany,Schleicher
+DEU,1933-01-31,Germany,Hitler
+DEU,1949-09-20,Germany,Adenauer I
+DEU,1953-10-20,Germany,Adenauer II
+DEU,1955-07-15,Germany,Adenauer III
+DEU,1956-02-24,Germany,Adenauer IV
+DEU,1957-10-24,Germany,Adenauer V
+DEU,1960-07-01,Germany,Adenauer VI
+DEU,1961-11-14,Germany,Adenauer VII
+DEU,1963-10-16,Germany,Erhard I
+DEU,1965-10-26,Germany,Erhard II
+DEU,1966-12-01,Germany,Kiesinger
+DEU,1969-10-22,Germany,Brandt I
+DEU,1972-12-15,Germany,Brandt II
+DEU,1974-05-16,Germany,Schmidt I
+DEU,1976-12-15,Germany,Schmidt II
+DEU,1980-11-05,Germany,Schmidt III
+DEU,1982-10-01,Germany,Kohl I
+DEU,1983-03-30,Germany,Kohl II
+DEU,1987-03-11,Germany,Kohl III
+DEU,1991-01-18,Germany,Kohl IV
+DEU,1994-11-17,Germany,Kohl V
+DEU,1998-10-27,Germany,Schroeder I
+DEU,2002-10-22,Germany,Schroeder II
+DEU,2005-11-22,Germany,Merkel I
+DEU,2009-10-28,Germany,Merkel II
+DEU,2013-12-17,Germany,Merkel III
+DEU,2017-09-24,Germany,Merkel IV
+DEU,2018-03-14,Germany,Merkel V
+DNK,1901-04-03,Denmark,Sehested
+DNK,1901-07-24,Denmark,Deuntzer I
+DNK,1903-06-16,Denmark,Deuntzer II
+DNK,1905-01-14,Denmark,Christensen
+DNK,1906-05-29,Denmark,Christensen II
+DNK,1908-10-12,Denmark,Neergaard I
+DNK,1909-08-16,Denmark,Holstein-Ledreborg
+DNK,1909-10-28,Denmark,Zahle I
+DNK,1910-07-05,Denmark,Berntsen
+DNK,1913-06-21,Denmark,Zahle II
+DNK,1915-05-07,Denmark,Zahle III
+DNK,1918-04-22,Denmark,Zahle IV
+DNK,1920-03-30,Denmark,Liebe
+DNK,1920-04-05,Denmark,Friis
+DNK,1920-05-05,Denmark,Neergaard II
+DNK,1920-07-06,Denmark,Neergaard III
+DNK,1920-09-21,Denmark,Neergaard IV
+DNK,1922-10-09,Denmark,Neergaard V
+DNK,1924-04-23,Denmark,Stauning I
+DNK,1926-12-14,Denmark,Madsen-Mygdal
+DNK,1929-04-30,Denmark,Stauning II
+DNK,1932-11-16,Denmark,Stauning III
+DNK,1935-11-04,Denmark,Stauning IV
+DNK,1939-04-03,Denmark,Stauning V
+DNK,1945-05-05,Denmark,Buhl II
+DNK,1945-11-07,Denmark,Kristensen
+DNK,1947-11-13,Denmark,Hedtoft I
+DNK,1950-09-16,Denmark,Hedtoft II
+DNK,1950-10-30,Denmark,Eriksen I
+DNK,1953-04-21,Denmark,Eriksen II
+DNK,1953-09-30,Denmark,Hedtoft III
+DNK,1955-02-01,Denmark,Hansen I
+DNK,1957-05-28,Denmark,Hansen II
+DNK,1960-02-21,Denmark,Kampmann I
+DNK,1960-11-18,Denmark,Kampmann II
+DNK,1962-09-03,Denmark,Krag I
+DNK,1964-09-26,Denmark,Krag II
+DNK,1966-11-22,Denmark,Krag III
+DNK,1968-02-02,Denmark,Baunsgaard
+DNK,1971-10-11,Denmark,Krag IV
+DNK,1972-10-05,Denmark,Jorgensen I
+DNK,1973-12-19,Denmark,Hartling
+DNK,1975-02-13,Denmark,Jorgensen II
+DNK,1977-02-15,Denmark,Jorgensen III
+DNK,1978-08-30,Denmark,Jorgensen IV
+DNK,1979-10-26,Denmark,Jorgensen V
+DNK,1981-12-30,Denmark,Jorgensen VI
+DNK,1982-09-10,Denmark,Schluter I
+DNK,1984-01-10,Denmark,Schluter II
+DNK,1987-09-10,Denmark,Schluter III
+DNK,1988-06-03,Denmark,Schluter IV
+DNK,1990-12-18,Denmark,Schluter V
+DNK,1993-01-25,Denmark,Rasmussen N I
+DNK,1994-09-27,Denmark,Rasmussen N II
+DNK,1996-12-30,Denmark,Rasmussen N III
+DNK,1998-03-11,Denmark,Rasmussen N IV
+DNK,2001-11-27,Denmark,Rasmussen F I
+DNK,2005-02-18,Denmark,Rasmussen F II
+DNK,2007-11-23,Denmark,Rasmussen F III
+DNK,2009-04-05,Denmark,Rasmussen L I
+DNK,2011-10-02,Denmark,Thorning-Schmidt I
+DNK,2014-02-03,Denmark,Thorning-Schmidt II
+DNK,2015-06-28,Denmark,Rasmussen L II
+DNK,2016-11-28,Denmark,Rasmussen L III
+DNK,2019-06-27,Denmark,Frederiksen
+ESP,1977-07-04,Spain,Suarez I
+ESP,1979-04-05,Spain,Suarez II
+ESP,1981-02-26,Spain,Calvo-Sotelo
+ESP,1982-12-02,Spain,Gonzalez I
+ESP,1986-07-25,Spain,Gonzalez II
+ESP,1989-12-05,Spain,Gonzalez III
+ESP,1993-07-09,Spain,Gonzalez IV
+ESP,1996-05-05,Spain,Aznar I
+ESP,2000-04-26,Spain,Aznar II
+ESP,2004-04-17,Spain,Zapatero I
+ESP,2008-04-12,Spain,Zapatero II
+ESP,2011-12-21,Spain,Rajoy I
+ESP,2015-12-20,Spain,Rajoy II
+ESP,2016-06-26,Spain,Rajoy III
+ESP,2016-10-29,Spain,Rajoy IV
+ESP,2018-06-02,Spain,Sanchez I
+ESP,2019-04-28,Spain,Sanchez II
+ESP,2020-01-07,Spain,Sanchez III
+EST,1992-10-21,Estonia,Laar I
+EST,1994-11-03,Estonia,Tarand
+EST,1995-04-17,Estonia,Vahi I
+EST,1995-11-03,Estonia,Vahi II
+EST,1996-12-01,Estonia,Vahi III
+EST,1997-03-14,Estonia,Siimann
+EST,1999-03-25,Estonia,Laar II
+EST,2002-01-28,Estonia,Kallas
+EST,2003-04-10,Estonia,Parts
+EST,2005-04-13,Estonia,Ansip I
+EST,2007-04-05,Estonia,Ansip II
+EST,2009-05-21,Estonia,Ansip III
+EST,2011-04-05,Estonia,Ansip IV
+EST,2014-03-26,Estonia,Roivas I
+EST,2015-04-09,Estonia,Roivas II
+EST,2016-11-20,Estonia,Ratas I
+EST,2019-04-29,Estonia,Ratas II
+FIN,1917-11-27,Finland,Svinhufvud I
+FIN,1918-05-27,Finland,Paasikivi
+FIN,1918-11-27,Finland,Ingman
+FIN,1919-04-17,Finland,Castren
+FIN,1919-08-15,Finland,Vennola I
+FIN,1920-03-15,Finland,Erich
+FIN,1921-04-09,Finland,Vennola II
+FIN,1922-06-02,Finland,Cajander I
+FIN,1922-11-14,Finland,Kallio I
+FIN,1924-01-18,Finland,Cajander II
+FIN,1924-05-31,Finland,Ingman II
+FIN,1925-03-31,Finland,Tulenheimo
+FIN,1925-12-31,Finland,Kallio II
+FIN,1926-12-13,Finland,Tanner
+FIN,1927-12-17,Finland,Sunila I
+FIN,1928-12-22,Finland,Mantere
+FIN,1929-08-16,Finland,Kallio III
+FIN,1930-07-04,Finland,Svinhufvud II
+FIN,1931-03-21,Finland,Sunila II
+FIN,1932-12-14,Finland,Kivimäki I
+FIN,1933-07-01,Finland,Kivimäki II
+FIN,1936-07-04,Finland,Kallio IV
+FIN,1937-03-12,Finland,Cajander III
+FIN,1944-09-21,Finland,Castren
+FIN,1944-11-17,Finland,Paasikivi I
+FIN,1945-04-17,Finland,Paasikivi II
+FIN,1946-03-26,Finland,Pekkala
+FIN,1948-07-29,Finland,Fagerholm I
+FIN,1950-03-17,Finland,Kekkonen I
+FIN,1951-01-17,Finland,Kekkonen II
+FIN,1951-09-20,Finland,Kekkonen III
+FIN,1953-07-09,Finland,Kekkonen IV
+FIN,1953-11-17,Finland,Tuomioja
+FIN,1954-05-05,Finland,Torngren
+FIN,1954-10-20,Finland,Kekkonen V
+FIN,1956-03-03,Finland,Fagerholm II
+FIN,1957-05-27,Finland,Sukselainen I
+FIN,1957-09-02,Finland,Sukselainen II
+FIN,1957-11-29,Finland,Fieandt
+FIN,1958-04-25,Finland,Kuuskoski
+FIN,1958-08-29,Finland,Fagerholm III
+FIN,1959-01-13,Finland,Sukselainen III
+FIN,1961-07-14,Finland,Miettunen I
+FIN,1962-04-13,Finland,Karjalainen I
+FIN,1963-12-18,Finland,Lehto
+FIN,1964-09-12,Finland,Virolainen
+FIN,1966-05-27,Finland,Paasio I
+FIN,1968-03-22,Finland,Koivisto I
+FIN,1970-05-14,Finland,Aura I
+FIN,1970-07-15,Finland,Karjalainen II
+FIN,1971-03-26,Finland,Karjalainen III
+FIN,1971-10-29,Finland,Aura II
+FIN,1972-02-23,Finland,Paasio II
+FIN,1972-09-04,Finland,Sorsa I
+FIN,1975-06-13,Finland,Liinamaa
+FIN,1975-11-30,Finland,Miettunen II
+FIN,1976-09-29,Finland,Miettunen III
+FIN,1977-05-15,Finland,Sorsa II
+FIN,1978-03-02,Finland,Sorsa III
+FIN,1979-05-26,Finland,Koivisto II
+FIN,1982-02-19,Finland,Sorsa IV
+FIN,1982-12-31,Finland,Sorsa V
+FIN,1983-05-06,Finland,Sorsa VI
+FIN,1987-04-30,Finland,Holkeri I
+FIN,1990-08-28,Finland,Holkeri II
+FIN,1991-04-26,Finland,Aho I
+FIN,1994-06-26,Finland,Aho II
+FIN,1995-04-13,Finland,Lipponen I
+FIN,1999-04-15,Finland,Lipponen II
+FIN,2002-05-31,Finland,Lipponen III
+FIN,2003-04-17,Finland,Jaatteenmaki
+FIN,2003-06-24,Finland,Vanhanen I
+FIN,2007-04-19,Finland,Vanhanen II
+FIN,2010-06-22,Finland,Kiviniemi
+FIN,2011-06-22,Finland,Katainen I
+FIN,2014-03-25,Finland,Katainen II
+FIN,2014-06-24,Finland,Stubb I
+FIN,2014-09-20,Finland,Stubb II
+FIN,2015-05-29,Finland,Sipilae I
+FIN,2017-06-13,Finland,Sipilae II
+FIN,2019-06-06,Finland,Rinne
+FIN,2019-12-10,Finland,Marin
+FRA,1902-06-07,France,Combes
+FRA,1905-01-24,France,Rouvier
+FRA,1906-03-14,France,Sarrien I
+FRA,1906-05-20,France,Sarrien II
+FRA,1906-10-25,France,Clemenceau I
+FRA,1909-07-24,France,Briand I
+FRA,1910-05-08,France,Briand II
+FRA,1910-11-03,France,Briand III
+FRA,1911-03-02,France,Monis
+FRA,1911-06-27,France,Caillaux
+FRA,1912-01-14,France,Poincare I
+FRA,1913-01-21,France,Briand IV
+FRA,1913-03-22,France,Barthou
+FRA,1913-12-22,France,Doumergue I
+FRA,1914-06-09,France,Ribot I
+FRA,1914-06-13,France,Viviani I
+FRA,1914-08-26,France,Viviani II
+FRA,1915-10-29,France,Briand V
+FRA,1916-12-12,France,Briand VI
+FRA,1917-03-20,France,Ribot II
+FRA,1917-09-12,France,Painleve I
+FRA,1917-11-16,France,Clemenceau II
+FRA,1919-10-16,France,Clemenceau III
+FRA,1920-01-20,France,Millerand I
+FRA,1920-02-18,France,Millerand II
+FRA,1920-09-24,France,Leygues
+FRA,1921-01-16,France,Briand VII
+FRA,1922-01-15,France,Poincare II
+FRA,1924-06-08,France,Francois-Marsal
+FRA,1924-06-14,France,Herriot I
+FRA,1925-04-17,France,Painleve II
+FRA,1925-11-28,France,Briand VIII
+FRA,1926-07-19,France,Herriot II
+FRA,1926-07-23,France,Poincare III
+FRA,1928-04-29,France,Poincare IV
+FRA,1928-11-11,France,Poincare V
+FRA,1929-07-29,France,Briand IX
+FRA,1929-11-03,France,Tardieu I
+FRA,1930-02-21,France,Chautemps I
+FRA,1930-03-02,France,Tardieu II
+FRA,1930-12-13,France,Steeg
+FRA,1931-01-27,France,Laval I
+FRA,1932-01-14,France,Laval II
+FRA,1932-02-20,France,Tardieu III
+FRA,1932-06-03,France,Herriot III
+FRA,1932-12-18,France,Paul-Boncour
+FRA,1933-01-31,France,Daladier I
+FRA,1933-10-26,France,Sarraut I
+FRA,1933-11-26,France,Chautemps II
+FRA,1934-01-30,France,Daladier II
+FRA,1934-02-09,France,Doumergue II
+FRA,1934-11-08,France,Flandin
+FRA,1935-06-01,France,Bouisson
+FRA,1935-06-07,France,Laval III
+FRA,1936-01-24,France,Sarraut II
+FRA,1936-06-04,France,Blum I
+FRA,1937-06-29,France,Chautemps III
+FRA,1938-03-13,France,Blum II
+FRA,1938-04-12,France,Daladier III
+FRA,1939-05-11,France,Daladier IV
+FRA,1939-09-13,France,Daladier V
+FRA,1940-03-22,France,Reynaud
+FRA,1940-06-16,France,Petain
+FRA,1944-11-10,France,de Gaulle I
+FRA,1945-11-21,France,de Gaulle II
+FRA,1946-01-26,France,Gouin
+FRA,1946-06-24,France,Bidault I
+FRA,1946-12-16,France,Blum
+FRA,1947-01-22,France,Ramadier I
+FRA,1947-11-24,France,Schuman I
+FRA,1948-07-27,France,Marie
+FRA,1948-08-31,France,Schuman II
+FRA,1948-09-10,France,Queuille I
+FRA,1949-10-28,France,Bidault II
+FRA,1950-02-02,France,Bidault III
+FRA,1950-07-02,France,Queuille II
+FRA,1950-07-12,France,Pleven I
+FRA,1951-03-10,France,Queuille III
+FRA,1951-08-11,France,Pleven II
+FRA,1952-01-20,France,Faure I
+FRA,1952-03-08,France,Pinay
+FRA,1953-01-07,France,Mayer
+FRA,1953-06-28,France,Laniel
+FRA,1954-06-19,France,Mendes-France
+FRA,1955-02-23,France,Faure II
+FRA,1956-01-31,France,Mollet
+FRA,1957-06-13,France,Bourges-Maunoury
+FRA,1957-11-05,France,Gaillard
+FRA,1958-05-12,France,Pflimlin
+FRA,1958-06-02,France,de Gaulle III
+FRA,1959-01-08,France,Debré
+FRA,1962-04-15,France,Pompidou I
+FRA,1962-12-06,France,Pompidou II
+FRA,1966-01-09,France,Pompidou III
+FRA,1967-04-08,France,Pompidou IV
+FRA,1968-07-12,France,Murville
+FRA,1969-06-22,France,Chaban-Delmas
+FRA,1972-07-06,France,Messmer I
+FRA,1973-04-05,France,Messmer II
+FRA,1974-03-01,France,Messmer III
+FRA,1974-05-28,France,Chirac I
+FRA,1976-08-17,France,Barre I
+FRA,1978-03-31,France,Barre II
+FRA,1981-05-22,France,Mauroy I
+FRA,1981-06-23,France,Mauroy II
+FRA,1983-03-22,France,Mauroy III
+FRA,1984-07-17,France,Fabius
+FRA,1986-03-20,France,Chirac II
+FRA,1988-05-10,France,Rocard I
+FRA,1988-06-23,France,Rocard II
+FRA,1991-05-16,France,Cresson
+FRA,1992-04-02,France,Beregovoy I
+FRA,1993-03-29,France,Balladur
+FRA,1995-05-17,France,Juppe I
+FRA,1995-11-07,France,Juppe II
+FRA,1997-06-02,France,Jospin
+FRA,2002-05-07,France,Raffarin I
+FRA,2002-06-17,France,Raffarin II
+FRA,2004-03-30,France,Raffarin III
+FRA,2005-05-31,France,Villepin
+FRA,2007-05-18,France,Fillon I
+FRA,2007-06-18,France,Fillon II
+FRA,2010-11-14,France,Fillon III
+FRA,2012-05-15,France,Ayrault I
+FRA,2012-06-18,France,Ayrault II
+FRA,2014-03-31,France,Valls I
+FRA,2014-08-26,France,Valls II
+FRA,2016-02-11,France,Valls III
+FRA,2016-12-06,France,Cazeneuve
+FRA,2017-06-14,France,Philippe I
+FRA,2017-06-21,France,Philippe II
+GBR,1919-01-10,United Kingdom,Lloyd George I
+GBR,1922-10-24,United Kingdom,Bonar Law
+GBR,1923-05-25,United Kingdom,Baldwin I
+GBR,1924-01-23,United Kingdom,MacDonald I
+GBR,1924-11-06,United Kingdom,Baldwin II
+GBR,1929-06-05,United Kingdom,MacDonald II
+GBR,1931-11-05,United Kingdom,MacDonald III
+GBR,1935-06-07,United Kingdom,Baldwin III
+GBR,1935-11-14,United Kingdom,Baldwin IV
+GBR,1937-05-28,United Kingdom,Chamberlain
+GBR,1940-05-10,United Kingdom,Churchill I
+GBR,1945-05-23,United Kingdom,Churchill II
+GBR,1945-07-26,United Kingdom,Attlee I
+GBR,1950-02-28,United Kingdom,Attlee II
+GBR,1951-10-26,United Kingdom,Churchill III
+GBR,1955-04-06,United Kingdom,Eden I
+GBR,1955-05-26,United Kingdom,Eden II
+GBR,1957-01-10,United Kingdom,Macmillan I
+GBR,1959-10-14,United Kingdom,Macmillan II
+GBR,1963-10-18,United Kingdom,Douglas-Home
+GBR,1964-10-16,United Kingdom,Wilson I
+GBR,1966-04-05,United Kingdom,Wilson II
+GBR,1970-06-19,United Kingdom,Heath
+GBR,1974-03-04,United Kingdom,Wilson III
+GBR,1974-10-10,United Kingdom,Wilson IV
+GBR,1976-04-05,United Kingdom,Callaghan
+GBR,1979-05-04,United Kingdom,Thatcher I
+GBR,1983-06-09,United Kingdom,Thatcher II
+GBR,1987-06-11,United Kingdom,Thatcher III
+GBR,1990-11-28,United Kingdom,Major I
+GBR,1992-04-09,United Kingdom,Major II
+GBR,1997-05-02,United Kingdom,Blair I
+GBR,2001-06-07,United Kingdom,Blair II
+GBR,2005-05-06,United Kingdom,Blair III
+GBR,2007-06-27,United Kingdom,Brown
+GBR,2010-05-11,United Kingdom,Cameron I
+GBR,2015-05-08,United Kingdom,Cameron II
+GBR,2016-07-13,United Kingdom,May I
+GBR,2017-06-11,United Kingdom,May II
+GBR,2019-07-24,United Kingdom,Johnson I
+GBR,2019-12-13,United Kingdom,Johnson II
+GRC,1974-11-21,Greece,Karamanlis Kon I
+GRC,1977-11-28,Greece,Karamanlis Kon II
+GRC,1980-05-09,Greece,Rallis
+GRC,1981-10-21,Greece,Papandreou A I
+GRC,1985-06-05,Greece,Papandreou A II
+GRC,1985-07-26,Greece,Papandreou A III
+GRC,1989-07-02,Greece,Tzannetakis
+GRC,1989-10-11,Greece,Grivas
+GRC,1989-11-23,Greece,Zolotas I
+GRC,1990-02-13,Greece,Zolotas II
+GRC,1990-04-11,Greece,Mitsotakis Kon
+GRC,1993-10-13,Greece,Papandreou A IV
+GRC,1996-01-22,Greece,Simitis I
+GRC,1996-09-24,Greece,Simitis II
+GRC,2000-04-13,Greece,Simitis III
+GRC,2004-03-10,Greece,Karamanlis Kos I
+GRC,2007-10-01,Greece,Karamanlis Kos II
+GRC,2009-10-06,Greece,Papandreou G
+GRC,2011-11-11,Greece,Papademos
+GRC,2012-05-16,Greece,Pikramenos
+GRC,2012-06-20,Greece,Samaras I
+GRC,2013-06-25,Greece,Samaras II
+GRC,2015-01-27,Greece,Tsipras I
+GRC,2015-09-21,Greece,Tsipras II
+GRC,2019-01-13,Greece,Tsipras III
+GRC,2019-07-08,Greece,Mitsotakis Kyr
+HRV,2000-01-27,Croatia,Racan I
+HRV,2001-06-04,Croatia,Racan II
+HRV,2002-07-30,Croatia,Racan III
+HRV,2003-12-23,Croatia,Sanader I
+HRV,2006-02-11,Croatia,Sanader II
+HRV,2008-01-12,Croatia,Sanader III
+HRV,2009-07-06,Croatia,Kosor I
+HRV,2010-07-10,Croatia,Kosor II
+HRV,2011-12-23,Croatia,Milanovic
+HRV,2016-01-22,Croatia,Oreskovic
+HRV,2016-10-19,Croatia,Plenkovic I
+HRV,2017-07-09,Croatia,Plenkovic II
+HUN,1990-05-23,Hungary,Antall
+HUN,1993-12-21,Hungary,Boross
+HUN,1994-07-15,Hungary,Horn
+HUN,1998-07-06,Hungary,Orban I
+HUN,2002-05-27,Hungary,Medgyessy
+HUN,2004-09-29,Hungary,Gyurcsany I
+HUN,2006-06-09,Hungary,Gyurcsany II
+HUN,2008-05-02,Hungary,Gyurcsany III
+HUN,2009-04-14,Hungary,Bajnai
+HUN,2010-05-29,Hungary,Orban II
+HUN,2014-05-10,Hungary,Orban III
+HUN,2018-05-10,Hungary,Orban IV
+IRL,1922-08-30,Ireland,Cosgrave I
+IRL,1923-09-19,Ireland,Cosgrave II
+IRL,1927-06-23,Ireland,Cosgrave III
+IRL,1927-10-11,Ireland,Cosgrave IV
+IRL,1932-03-09,Ireland,Valera I
+IRL,1933-02-08,Ireland,Valera II
+IRL,1937-07-21,Ireland,Valera III
+IRL,1938-06-30,Ireland,Valera IV
+IRL,1943-07-01,Ireland,Valera V
+IRL,1944-06-09,Ireland,Valera VII
+IRL,1948-02-18,Ireland,Costello I
+IRL,1951-06-13,Ireland,Valera VIII
+IRL,1954-06-02,Ireland,Costello II
+IRL,1957-03-20,Ireland,Valera IX
+IRL,1959-06-23,Ireland,Lemass I
+IRL,1961-10-11,Ireland,Lemass II
+IRL,1965-04-21,Ireland,Lemass III
+IRL,1966-11-10,Ireland,Lynch I
+IRL,1969-07-02,Ireland,Lynch II
+IRL,1973-03-14,Ireland,Cosgrave L
+IRL,1977-07-05,Ireland,Lynch III
+IRL,1979-12-12,Ireland,Haughey I
+IRL,1981-06-30,Ireland,Fitzgerald I
+IRL,1982-03-09,Ireland,Haughey II
+IRL,1982-12-14,Ireland,Fitzgerald II
+IRL,1987-03-10,Ireland,Haughey III
+IRL,1989-07-12,Ireland,Haughey IV
+IRL,1992-02-11,Ireland,Reynolds I
+IRL,1993-01-12,Ireland,Reynolds II
+IRL,1994-12-15,Ireland,Bruton
+IRL,1997-06-26,Ireland,Ahern I
+IRL,2002-06-06,Ireland,Ahern II
+IRL,2007-06-14,Ireland,Ahern III
+IRL,2008-05-07,Ireland,Cowen
+IRL,2011-03-09,Ireland,Kenny I
+IRL,2016-05-06,Ireland,Kenny II
+IRL,2017-06-14,Ireland,Varadkar
+ISL,1919-11-15,Iceland,Magnusson I
+ISL,1920-02-25,Iceland,Magnusson II
+ISL,1922-03-07,Iceland,Eggerz I
+ISL,1923-10-27,Iceland,Eggerz II
+ISL,1924-03-22,Iceland,Magnusson III
+ISL,1926-07-08,Iceland,Porlaksson I
+ISL,1927-08-28,Iceland,Porhallsson
+ISL,1931-06-12,Iceland,Porlaksson II
+ISL,1932-06-03,Iceland,Asgeirsson
+ISL,1934-07-28,Iceland,Jonasson I
+ISL,1937-06-29,Iceland,Jonasson II
+ISL,1938-04-02,Iceland,Jonasson III
+ISL,1939-04-17,Iceland,Jonasson IV
+ISL,1942-05-16,Iceland,Thors I
+ISL,1942-12-16,Iceland,Thordarson
+ISL,1944-10-21,Iceland,Thors II
+ISL,1946-06-30,Iceland,Thors III
+ISL,1947-02-04,Iceland,Stefansson
+ISL,1949-12-06,Iceland,Thors IV
+ISL,1950-03-14,Iceland,Steinthorsson
+ISL,1953-09-11,Iceland,Thors V
+ISL,1956-07-24,Iceland,Jonasson V
+ISL,1958-12-23,Iceland,Jonsson I
+ISL,1959-06-28,Iceland,Jonsson II
+ISL,1959-11-20,Iceland,Thors VI
+ISL,1963-06-09,Iceland,Thors VII
+ISL,1963-11-14,Iceland,Benediktsson I
+ISL,1967-06-11,Iceland,Benediktsson II
+ISL,1970-07-10,Iceland,Hafstein
+ISL,1971-07-14,Iceland,Johannesson I
+ISL,1974-08-28,Iceland,Hallgrimsson
+ISL,1978-09-01,Iceland,Johannesson II
+ISL,1979-10-15,Iceland,Groendal
+ISL,1980-02-08,Iceland,Thoroddsen
+ISL,1983-05-26,Iceland,Hermannsson I
+ISL,1987-07-08,Iceland,Palsson
+ISL,1988-09-28,Iceland,Hermannsson II
+ISL,1989-09-10,Iceland,Hermannsson III
+ISL,1991-04-30,Iceland,Oddsson I
+ISL,1995-04-13,Iceland,Oddsson II
+ISL,1999-05-28,Iceland,Oddsson III
+ISL,2003-05-23,Iceland,Oddsson IV
+ISL,2004-09-15,Iceland,Asgrimsson
+ISL,2006-06-15,Iceland,Haarde I
+ISL,2007-05-24,Iceland,Haarde II
+ISL,2009-02-01,Iceland,Sigurdardottir I
+ISL,2009-04-25,Iceland,Sigurdardottir II
+ISL,2013-05-23,Iceland,Gunnlaugsson
+ISL,2016-04-07,Iceland,Johannsson
+ISL,2017-01-10,Iceland,Benediktsson III
+ISL,2017-11-30,Iceland,Jakobsdottir
+ISR,1949-01-25,Israel,Ben-Gurion I
+ISR,1949-03-10,Israel,Ben-Gurion II
+ISR,1950-11-01,Israel,Ben-Gurion III
+ISR,1951-02-14,Israel,Ben-Gurion IV
+ISR,1951-10-08,Israel,Ben-Gurion V
+ISR,1952-09-18,Israel,Ben-Gurion VI
+ISR,1952-12-24,Israel,Ben-Gurion VII
+ISR,1954-01-26,Israel,Sharett I
+ISR,1955-06-29,Israel,Sharett II
+ISR,1955-07-26,Israel,Sharett III
+ISR,1955-11-03,Israel,Ben-Gurion VIII
+ISR,1958-01-07,Israel,Ben-Gurion IX
+ISR,1958-07-01,Israel,Ben-Gurion X
+ISR,1959-07-05,Israel,Ben-Gurion XI
+ISR,1959-12-17,Israel,Ben-Gurion XII
+ISR,1961-01-31,Israel,Ben-Gurion XIII
+ISR,1961-05-30,Israel,Ben-Gurion XIV
+ISR,1961-11-02,Israel,Ben-Gurion XV
+ISR,1963-06-26,Israel,Eshkol I
+ISR,1964-12-22,Israel,Eshkol II
+ISR,1966-01-12,Israel,Eshkol III
+ISR,1967-06-05,Israel,Eshkol IV
+ISR,1969-03-17,Israel,Meir I
+ISR,1969-12-15,Israel,Meir II
+ISR,1970-08-07,Israel,Meir III
+ISR,1974-03-10,Israel,Meir IV
+ISR,1974-06-03,Israel,Rabin I
+ISR,1974-11-06,Israel,Rabin II
+ISR,1976-12-22,Israel,Rabin III
+ISR,1977-06-20,Israel,Begin I
+ISR,1977-10-24,Israel,Begin II
+ISR,1981-08-05,Israel,Begin III
+ISR,1982-07-26,Israel,Begin IV
+ISR,1983-10-10,Israel,Shamir I
+ISR,1984-01-31,Israel,Shamir II
+ISR,1984-09-13,Israel,Peres I
+ISR,1986-10-20,Israel,Shamir III
+ISR,1987-05-26,Israel,Shamir IV
+ISR,1988-12-22,Israel,Shamir V
+ISR,1990-03-15,Israel,Shamir VI
+ISR,1990-06-11,Israel,Shamir VII
+ISR,1991-02-05,Israel,Shamir VIII
+ISR,1992-01-21,Israel,Shamir IX
+ISR,1992-07-13,Israel,Rabin IV
+ISR,1993-09-14,Israel,Rabin V
+ISR,1995-01-09,Israel,Rabin VI
+ISR,1995-11-22,Israel,Peres II
+ISR,1996-06-18,Israel,Netanyahu I
+ISR,1998-01-04,Israel,Netanyahu II
+ISR,1998-12-21,Israel,Netanyahu III
+ISR,1999-07-06,Israel,Barak I
+ISR,2000-07-11,Israel,Barak II
+ISR,2000-12-10,Israel,Barak III
+ISR,2001-03-07,Israel,Sharon I
+ISR,2001-08-29,Israel,Sharon II
+ISR,2002-04-08,Israel,Sharon III
+ISR,2002-07-30,Israel,Sharon IV
+ISR,2002-11-02,Israel,Sharon V
+ISR,2003-03-03,Israel,Sharon VI
+ISR,2004-06-06,Israel,Sharon VII
+ISR,2005-01-10,Israel,Sharon VIII
+ISR,2006-01-18,Israel,Sharon IX
+ISR,2006-05-04,Israel,Olmert I
+ISR,2006-10-30,Israel,Olmert II
+ISR,2008-01-18,Israel,Olmert III
+ISR,2008-09-21,Israel,Olmert IV
+ISR,2009-03-31,Israel,Netanyahu IV
+ISR,2011-01-17,Israel,Netanyahu V
+ISR,2012-05-08,Israel,Netanyahu VI
+ISR,2013-03-18,Israel,Netanyahu VII
+ISR,2014-12-02,Israel,Netanyahu VIII
+ISR,2015-05-14,Israel,Netanyahu IX
+ISR,2016-05-30,Israel,Netanyahu X
+ISR,2018-11-18,Israel,Netanyahu XI
+ISR,2019-04-09,Israel,Netanyahu XII
+ISR,2019-09-17,Israel,Netanyahu XIII
+ITA,1946-07-13,Italy,De Gasperi I
+ITA,1947-02-02,Italy,De Gasperi II
+ITA,1947-05-31,Italy,De Gasperi III
+ITA,1948-05-23,Italy,De Gasperi IV
+ITA,1950-01-21,Italy,De Gasperi V
+ITA,1951-07-26,Italy,De Gasperi VI
+ITA,1953-07-16,Italy,De Gasperi VII
+ITA,1953-08-17,Italy,Pella
+ITA,1954-01-18,Italy,Fanfani I
+ITA,1954-02-10,Italy,Scelba
+ITA,1955-07-22,Italy,Segni I
+ITA,1957-05-19,Italy,Zoli
+ITA,1958-07-01,Italy,Fanfani II
+ITA,1959-02-15,Italy,Segni II
+ITA,1960-03-26,Italy,Tambroni
+ITA,1960-07-26,Italy,Fanfani III
+ITA,1962-02-21,Italy,Fanfani IV
+ITA,1963-06-21,Italy,Leone I
+ITA,1963-12-04,Italy,Moro I
+ITA,1964-07-22,Italy,Moro II
+ITA,1966-02-23,Italy,Moro III
+ITA,1968-06-24,Italy,Leone II
+ITA,1968-12-12,Italy,Rumor I
+ITA,1969-08-05,Italy,Rumor II
+ITA,1970-03-27,Italy,Rumor III
+ITA,1970-08-06,Italy,Colombo
+ITA,1972-02-17,Italy,Andreotti I
+ITA,1972-07-26,Italy,Andreotti II
+ITA,1973-07-07,Italy,Rumor IV
+ITA,1974-03-14,Italy,Rumor V
+ITA,1974-11-23,Italy,Moro IV
+ITA,1976-02-12,Italy,Moro V
+ITA,1976-07-29,Italy,Andreotti III
+ITA,1978-03-11,Italy,Andreotti IV
+ITA,1979-03-20,Italy,Andreotti V
+ITA,1979-08-04,Italy,Cossiga I
+ITA,1980-04-04,Italy,Cossiga II
+ITA,1980-10-18,Italy,Forlani
+ITA,1981-06-28,Italy,Spadolini I
+ITA,1982-08-23,Italy,Spadolini II
+ITA,1982-12-01,Italy,Fanfani V
+ITA,1983-08-04,Italy,Craxi I
+ITA,1986-08-01,Italy,Craxi II
+ITA,1987-04-17,Italy,Fanfani VI
+ITA,1987-07-28,Italy,Goria
+ITA,1988-04-13,Italy,De Mita
+ITA,1989-07-23,Italy,Andreotti VI
+ITA,1991-04-13,Italy,Andreotti VII
+ITA,1992-06-28,Italy,Amato I
+ITA,1993-04-29,Italy,Ciampi
+ITA,1994-05-11,Italy,Berlusconi I
+ITA,1995-01-17,Italy,Dini I
+ITA,1996-01-11,Italy,Dini II
+ITA,1996-05-18,Italy,Prodi I
+ITA,1998-10-21,Italy,D'Alema I
+ITA,1999-12-21,Italy,D'Alema II
+ITA,2000-04-28,Italy,Amato II
+ITA,2001-06-11,Italy,Berlusconi II
+ITA,2005-05-28,Italy,Berlusconi III
+ITA,2006-05-17,Italy,Prodi II
+ITA,2008-05-08,Italy,Berlusconi IV
+ITA,2011-11-16,Italy,Monti
+ITA,2013-04-27,Italy,Letta I
+ITA,2013-11-18,Italy,Letta II
+ITA,2014-02-22,Italy,Renzi
+ITA,2016-12-12,Italy,Gentiloni
+ITA,2018-06-01,Italy,Conte I
+ITA,2019-09-05,Italy,Conte II
+JPN,1946-05-22,Japan,Yoshida I
+JPN,1947-05-23,Japan,Katayama
+JPN,1948-02-21,Japan,Ashida
+JPN,1948-10-15,Japan,Yoshida II
+JPN,1949-02-11,Japan,Yoshida III
+JPN,1952-10-24,Japan,Yoshida IV
+JPN,1953-05-19,Japan,Yoshida V
+JPN,1954-12-09,Japan,Hatoyama I I
+JPN,1955-03-18,Japan,Hatoyama I II
+JPN,1955-11-22,Japan,Hatoyama I III
+JPN,1956-12-20,Japan,Ishibashi
+JPN,1957-02-25,Japan,Kishi I
+JPN,1958-06-12,Japan,Kishi II
+JPN,1960-07-19,Japan,Ikeda I
+JPN,1960-12-08,Japan,Ikeda II
+JPN,1963-12-09,Japan,Ikeda III
+JPN,1964-11-09,Japan,Sato I
+JPN,1967-02-17,Japan,Sato II
+JPN,1970-01-14,Japan,Sato III
+JPN,1972-07-07,Japan,Tanaka I
+JPN,1972-12-22,Japan,Tanaka II
+JPN,1974-12-09,Japan,Miki
+JPN,1976-12-24,Japan,Fukuda T
+JPN,1978-12-07,Japan,Ohira I
+JPN,1979-11-09,Japan,Ohira II
+JPN,1980-07-17,Japan,Suzuki
+JPN,1982-11-27,Japan,Nakasone I
+JPN,1983-12-27,Japan,Nakasone II
+JPN,1986-07-22,Japan,Nakasone III
+JPN,1987-11-06,Japan,Takeshita
+JPN,1989-06-03,Japan,Uno
+JPN,1989-08-10,Japan,Kaifu I
+JPN,1990-02-28,Japan,Kaifu II
+JPN,1991-11-05,Japan,Miyazawa
+JPN,1993-08-06,Japan,Hosokawa
+JPN,1994-04-25,Japan,Hata
+JPN,1994-06-30,Japan,Murayama
+JPN,1996-01-11,Japan,Hashimoto I
+JPN,1996-11-07,Japan,Hashimoto II
+JPN,1998-07-30,Japan,Obuchi I
+JPN,1999-01-14,Japan,Obuchi II
+JPN,1999-10-05,Japan,Obuchi III
+JPN,2000-04-05,Japan,Mori I
+JPN,2000-07-04,Japan,Mori II
+JPN,2001-04-26,Japan,Koizumi I
+JPN,2003-11-19,Japan,Koizumi II
+JPN,2005-10-31,Japan,Koizumi III
+JPN,2006-09-26,Japan,Abe I
+JPN,2007-08-27,Japan,Abe II
+JPN,2007-09-26,Japan,Fukuda Y
+JPN,2008-09-24,Japan,Aso
+JPN,2009-09-16,Japan,Hatoyama Y
+JPN,2010-06-04,Japan,Kan
+JPN,2011-08-30,Japan,Noda
+JPN,2012-12-26,Japan,Abe III
+JPN,2014-12-24,Japan,Abe IV
+JPN,2017-11-01,Japan,Abe V
+LTU,1990-03-17,Lithuania,Prunskiene
+LTU,1991-01-10,Lithuania,Simenas
+LTU,1991-01-13,Lithuania,Vagnorius I
+LTU,1992-07-21,Lithuania,Abisala
+LTU,1992-12-02,Lithuania,Lubys
+LTU,1993-03-10,Lithuania,Slezevicius
+LTU,1996-02-15,Lithuania,Stankevicius
+LTU,1996-12-10,Lithuania,Vagnorius II
+LTU,1998-03-10,Lithuania,Vagnorius III
+LTU,1999-05-18,Lithuania,Paksas I
+LTU,1999-10-29,Lithuania,Kubilius I
+LTU,2000-10-26,Lithuania,Paksas II
+LTU,2001-07-12,Lithuania,Brazauskas I
+LTU,2003-03-04,Lithuania,Brazauskas II
+LTU,2004-07-13,Lithuania,Brazauskas III
+LTU,2004-12-14,Lithuania,Brazauskas IV
+LTU,2006-04-11,Lithuania,Brazauskas V
+LTU,2006-07-04,Lithuania,Kirkilas I
+LTU,2008-11-27,Lithuania,Kubilius II
+LTU,2009-07-16,Lithuania,Kubilis III
+LTU,2010-09-21,Lithuania,Kubilius IV
+LTU,2012-12-13,Lithuania,Butkevicius I
+LTU,2014-07-15,Lithuania,Butkevicius II
+LTU,2016-11-22,Lithuania,Skvernelis I
+LTU,2017-10-19,Lithuania,Skvernelis II
+LTU,2019-07-23,Lithuania,Skvernelis III
+LUX,1920-01-05,Luxembourg,Reuter I
+LUX,1921-04-15,Luxembourg,Reuters II
+LUX,1925-03-20,Luxembourg,Prum
+LUX,1926-07-16,Luxembourg,Bech I
+LUX,1932-04-11,Luxembourg,Bech II
+LUX,1937-06-06,Luxembourg,Bech III
+LUX,1937-11-05,Luxembourg,Dupong-Krier I
+LUX,1938-02-07,Luxembourg,Dupong-Krier II
+LUX,1940-05-10,Luxembourg,Dupong I
+LUX,1944-11-23,Luxembourg,Dupong II
+LUX,1945-11-14,Luxembourg,Dupong III
+LUX,1947-03-01,Luxembourg,Dupong IV
+LUX,1948-07-14,Luxembourg,Dupong V
+LUX,1951-07-03,Luxembourg,Dupong VI
+LUX,1953-12-29,Luxembourg,Bech IV
+LUX,1954-06-28,Luxembourg,Bech V
+LUX,1958-03-29,Luxembourg,Frieden
+LUX,1959-03-02,Luxembourg,Werner I
+LUX,1964-07-15,Luxembourg,Werner II
+LUX,1969-02-06,Luxembourg,Werner III
+LUX,1974-06-15,Luxembourg,Thorn
+LUX,1979-07-16,Luxembourg,Werner IV
+LUX,1984-07-20,Luxembourg,Santer I
+LUX,1989-07-14,Luxembourg,Santer II
+LUX,1994-07-13,Luxembourg,Santer III
+LUX,1995-01-20,Luxembourg,Juncker I
+LUX,1999-08-07,Luxembourg,Juncker II
+LUX,2004-07-31,Luxembourg,Juncker III
+LUX,2009-07-23,Luxembourg,Juncker IV
+LUX,2013-07-11,Luxembourg,Juncker V
+LUX,2013-12-04,Luxembourg,Bettel I
+LUX,2018-12-05,Luxembourg,Bettel II
+LVA,1990-05-07,Latvia,Godmanis I
+LVA,1993-08-07,Latvia,Birkavs
+LVA,1994-09-15,Latvia,Gailis
+LVA,1995-12-21,Latvia,Skele I
+LVA,1997-02-13,Latvia,Skele II
+LVA,1997-08-07,Latvia,Krasts I
+LVA,1998-04-08,Latvia,Krasts II
+LVA,1998-11-26,Latvia,Kristopans I
+LVA,1999-02-04,Latvia,Kristopans II
+LVA,1999-07-16,Latvia,Skele III
+LVA,2000-05-04,Latvia,Berzins
+LVA,2002-11-07,Latvia,Repse
+LVA,2004-03-09,Latvia,Emsis
+LVA,2004-12-02,Latvia,Kalvitis I
+LVA,2006-04-08,Latvia,Kalvitis II
+LVA,2006-11-07,Latvia,Kalvitis III
+LVA,2007-12-20,Latvia,Godmanis II
+LVA,2009-02-26,Latvia,Dombrovskis I
+LVA,2010-03-17,Latvia,Dombrovskis II
+LVA,2010-11-03,Latvia,Dombrovskis III
+LVA,2011-10-25,Latvia,Dombrovskis IV
+LVA,2014-01-22,Latvia,Straujuma I
+LVA,2014-11-05,Latvia,Straujuma II
+LVA,2016-02-11,Latvia,Kucinskis I
+LVA,2018-10-06,Latvia,Kucinskis II
+LVA,2019-01-23,Latvia,Karins
+MLT,1947-10-27,Malta,Boffa
+MLT,1950-09-04,Malta,Mizzi
+MLT,1951-05-06,Malta,Borg Olivier I
+MLT,1953-12-14,Malta,Borg Olivier II
+MLT,1955-02-28,Malta,Mintoff I
+MLT,1962-03-05,Malta,Borg Olivier III
+MLT,1966-04-07,Malta,Borg Olivier IV
+MLT,1971-06-21,Malta,Mintoff II
+MLT,1974-09-30,Malta,Mintoff III
+MLT,1976-09-25,Malta,Mintoff IV
+MLT,1981-12-18,Malta,Mintoff V
+MLT,1984-12-22,Malta,Mifsud Bonnici
+MLT,1987-05-12,Malta,Fenech Adami I
+MLT,1992-02-27,Malta,Fenech Adami II
+MLT,1996-10-28,Malta,Sant
+MLT,1998-09-06,Malta,Fenech Adami III
+MLT,2003-04-15,Malta,Fenech Adami IV
+MLT,2004-03-23,Malta,Gonzi I
+MLT,2008-03-12,Malta,Gonzi II
+MLT,2013-03-11,Malta,Muscat I
+MLT,2017-06-06,Malta,Muscat II
+MLT,2020-01-13,Malta,Abela
+NLD,1918-09-09,Netherlands,Ruijs de Beerenbrouck I
+NLD,1922-09-18,Netherlands,Ruijs de Beerenbrouck II
+NLD,1925-08-04,Netherlands,Colijn I
+NLD,1926-03-08,Netherlands,De Geer I
+NLD,1929-08-10,Netherlands,Ruijs de Beerenbrouck III
+NLD,1933-05-26,Netherlands,Colijn II
+NLD,1935-07-31,Netherlands,Colijn III
+NLD,1937-06-24,Netherlands,Colijn IV
+NLD,1939-07-25,Netherlands,Colijn V
+NLD,1939-08-10,Netherlands,De Geer II
+NLD,1945-06-24,Netherlands,Schermerhorn
+NLD,1946-07-03,Netherlands,Beel I
+NLD,1948-08-07,Netherlands,Drees I
+NLD,1951-03-15,Netherlands,Drees II
+NLD,1952-09-02,Netherlands,Drees III
+NLD,1956-10-12,Netherlands,Drees IV
+NLD,1958-12-22,Netherlands,Beel II
+NLD,1959-05-19,Netherlands,De Quay
+NLD,1963-07-24,Netherlands,Marijnen
+NLD,1965-04-14,Netherlands,Cals
+NLD,1966-11-22,Netherlands,Zijlstra
+NLD,1967-04-05,Netherlands,De Jong
+NLD,1971-06-07,Netherlands,Biesheuvel I
+NLD,1972-08-09,Netherlands,Biesheuvel II
+NLD,1973-05-11,Netherlands,Den Uyl I
+NLD,1977-05-25,Netherlands,Den Uyl II
+NLD,1977-12-19,Netherlands,Van Agt I
+NLD,1981-09-11,Netherlands,Van Agt II
+NLD,1982-05-29,Netherlands,Van Agt III
+NLD,1982-11-04,Netherlands,Lubbers I
+NLD,1986-07-14,Netherlands,Lubbers II
+NLD,1989-11-07,Netherlands,Lubbers III
+NLD,1994-08-22,Netherlands,Kok I
+NLD,1998-08-03,Netherlands,Kok II
+NLD,2002-07-22,Netherlands,Balkenende I
+NLD,2002-10-16,Netherlands,Balkenende II
+NLD,2003-05-27,Netherlands,Balkenende III
+NLD,2006-07-07,Netherlands,Balkenende IV
+NLD,2007-02-22,Netherlands,Balkenende V
+NLD,2010-02-23,Netherlands,Balkenende VI
+NLD,2010-10-14,Netherlands,Rutte I
+NLD,2012-04-23,Netherlands,Rutte II
+NLD,2012-11-05,Netherlands,Rutte III
+NLD,2017-03-15,Netherlands,Rutte IV
+NLD,2017-10-26,Netherlands,Rutte V
+NOR,1900-07-01,Norway,Steens
+NOR,1902-04-21,Norway,Blehr
+NOR,1903-10-22,Norway,Hagerup
+NOR,1905-03-11,Norway,Michelsen I
+NOR,1906-08-27,Norway,Michelsen II
+NOR,1907-10-23,Norway,Løvland
+NOR,1908-03-18,Norway,Knudsen I
+NOR,1909-10-25,Norway,Knudsen II
+NOR,1910-02-02,Norway,Konow
+NOR,1912-02-20,Norway,Bratlie
+NOR,1913-01-31,Norway,Knudsen III
+NOR,1915-10-21,Norway,Knudsen IV
+NOR,1918-10-21,Norway,Knudsen V
+NOR,1920-06-21,Norway,Halvorsen I
+NOR,1921-06-22,Norway,Blehr I
+NOR,1921-10-24,Norway,Blehr II
+NOR,1923-03-06,Norway,Halvorsen II
+NOR,1923-05-30,Norway,Berge
+NOR,1924-07-25,Norway,Mowinckel I
+NOR,1924-10-21,Norway,Mowinckel II
+NOR,1926-03-05,Norway,Lykke I
+NOR,1927-10-17,Norway,Lykke II
+NOR,1928-01-28,Norway,Hornsrud
+NOR,1928-02-15,Norway,Mowinckel III
+NOR,1930-10-20,Norway,Mowinckel IV
+NOR,1931-05-12,Norway,Kolstad
+NOR,1932-03-14,Norway,Hundseid
+NOR,1933-03-03,Norway,Mowinckel V
+NOR,1933-10-16,Norway,Mowinckel VI
+NOR,1935-03-20,Norway,Nygaardsvold I
+NOR,1936-10-19,Norway,Nygaardsvold II
+NOR,1945-06-25,Norway,Gerhardsen I
+NOR,1945-11-05,Norway,Gerhardsen II
+NOR,1949-10-10,Norway,Gerhardsen III
+NOR,1951-11-19,Norway,Torp I
+NOR,1953-10-12,Norway,Torp II
+NOR,1955-01-22,Norway,Gerhardsen IV
+NOR,1957-10-07,Norway,Gerhardsen V
+NOR,1961-09-11,Norway,Gerhardsen VI
+NOR,1963-08-28,Norway,Lyng
+NOR,1963-09-25,Norway,Gerhardsen VII
+NOR,1965-10-12,Norway,Borten I
+NOR,1969-09-07,Norway,Borten II
+NOR,1971-03-17,Norway,Bratteli I
+NOR,1972-10-17,Norway,Korvald
+NOR,1973-10-16,Norway,Bratteli II
+NOR,1976-01-12,Norway,Nordli I
+NOR,1977-09-11,Norway,Nordli II
+NOR,1981-02-04,Norway,Brundtland I
+NOR,1981-10-14,Norway,Willoch I
+NOR,1983-06-08,Norway,Willoch II
+NOR,1985-09-08,Norway,Willoch III
+NOR,1986-05-09,Norway,Brundtland II
+NOR,1989-10-16,Norway,Syse
+NOR,1990-11-03,Norway,Brundtland III
+NOR,1993-09-13,Norway,Brundtland IV
+NOR,1996-10-25,Norway,Jagland
+NOR,1997-10-17,Norway,Bondevik I
+NOR,2000-03-17,Norway,Stoltenberg I
+NOR,2001-10-19,Norway,Bondevik II
+NOR,2005-10-17,Norway,Stoltenberg II
+NOR,2009-10-20,Norway,Stoltenberg III
+NOR,2013-10-16,Norway,Solberg I
+NOR,2017-09-11,Norway,Solberg II
+NOR,2018-01-17,Norway,Solberg III
+NOR,2019-01-22,Norway,Solberg IV
+NOR,2020-01-24,Norway,Solberg V
+NZL,1902-11-25,New Zealand,Seddon I
+NZL,1905-12-06,New Zealand,Seddon II
+NZL,1906-06-21,New Zealand,Hall-Jones
+NZL,1906-08-06,New Zealand,Ward I
+NZL,1908-12-19,New Zealand,Ward II
+NZL,1911-12-19,New Zealand,Ward III
+NZL,1912-03-18,New Zealand,Mackenzie
+NZL,1912-07-10,New Zealand,Massey
+NZL,1914-11-12,New Zealand,Massey II
+NZL,1919-12-17,New Zealand,Massey III
+NZL,1922-12-07,New Zealand,Massey IV
+NZL,1925-05-14,New Zealand,Bell
+NZL,1925-05-30,New Zealand,Coates
+NZL,1928-12-10,New Zealand,Ward IV
+NZL,1930-05-28,New Zealand,Forbes I
+NZL,1931-12-02,New Zealand,Forbes II
+NZL,1935-12-06,New Zealand,Savage I
+NZL,1938-10-15,New Zealand,Savage II
+NZL,1940-04-01,New Zealand,Fraser I
+NZL,1943-09-25,New Zealand,Frazer II
+NZL,1946-12-20,New Zealand,Frazer III
+NZL,1949-12-08,New Zealand,Holland I
+NZL,1951-09-01,New Zealand,Holland II
+NZL,1954-11-26,New Zealand,Holland III
+NZL,1957-09-26,New Zealand,Holyoake I
+NZL,1957-12-11,New Zealand,Nash
+NZL,1960-12-12,New Zealand,Holyoake II
+NZL,1963-12-20,New Zealand,Holyoake III
+NZL,1966-11-26,New Zealand,Holyoake IV
+NZL,1969-12-22,New Zealand,Holyoake V
+NZL,1972-02-07,New Zealand,Marshall
+NZL,1972-12-08,New Zealand,Kirk
+NZL,1974-09-06,New Zealand,Rowling
+NZL,1975-12-12,New Zealand,Muldoon I
+NZL,1978-12-12,New Zealand,Muldoon II
+NZL,1981-12-11,New Zealand,Muldoon III
+NZL,1984-07-26,New Zealand,Lange I
+NZL,1987-08-19,New Zealand,Lange II
+NZL,1989-08-08,New Zealand,Palmer
+NZL,1990-09-04,New Zealand,Moore
+NZL,1990-11-02,New Zealand,Bolger I
+NZL,1993-11-28,New Zealand,Bolger II
+NZL,1996-03-01,New Zealand,Bolger III
+NZL,1996-12-16,New Zealand,Bolger IV
+NZL,1997-12-08,New Zealand,Shipley I
+NZL,1998-08-14,New Zealand,Shipley II
+NZL,1999-12-09,New Zealand,Clark I
+NZL,2002-08-15,New Zealand,Clark II
+NZL,2005-10-17,New Zealand,Clark III
+NZL,2008-11-19,New Zealand,Key I
+NZL,2011-12-14,New Zealand,Key II
+NZL,2014-10-08,New Zealand,Key III
+NZL,2016-12-12,New Zealand,English
+NZL,2017-10-26,New Zealand,Ardern
+POL,1989-08-24,Poland,Mazowiecki
+POL,1991-01-12,Poland,Bielecki
+POL,1991-12-23,Poland,Olszewski
+POL,1992-06-05,Poland,Pawlak I
+POL,1992-07-11,Poland,Suchocka I
+POL,1993-05-28,Poland,Suchocka II
+POL,1993-10-26,Poland,Pawlak II
+POL,1995-03-06,Poland,Oleksy
+POL,1996-02-07,Poland,Cimoszewicz
+POL,1997-10-31,Poland,Buzek I
+POL,2000-06-07,Poland,Buzek II
+POL,2001-10-19,Poland,Miller I
+POL,2003-03-01,Poland,Miller II
+POL,2004-05-02,Poland,Belka
+POL,2005-10-31,Poland,Marcinkiewicz I
+POL,2006-05-05,Poland,Marcinkiewicz II
+POL,2006-07-14,Poland,Kaczynski
+POL,2007-11-16,Poland,Tusk I
+POL,2011-11-18,Poland,Tusk II
+POL,2014-09-22,Poland,Kopacz
+POL,2015-11-16,Poland,Szydlo
+POL,2017-12-11,Poland,Morawiecki I
+POL,2019-11-15,Poland,Morawiecki II
+PRT,1975-04-25,Portugal,Goncalves
+PRT,1975-09-19,Portugal,Pinheiro de Azevedo
+PRT,1976-07-23,Portugal,Soares I
+PRT,1978-01-23,Portugal,Soares II
+PRT,1978-08-29,Portugal,Nobre da Costa
+PRT,1978-11-22,Portugal,Mota Pinto
+PRT,1979-07-07,Portugal,Pintassilgo
+PRT,1980-01-03,Portugal,Carneiro I
+PRT,1980-10-05,Portugal,Carneiro II
+PRT,1981-01-09,Portugal,Balsemao I
+PRT,1981-09-04,Portugal,Balsemao II
+PRT,1983-06-09,Portugal,Soares III
+PRT,1985-06-14,Portugal,Soares IV
+PRT,1985-10-31,Portugal,Silva I
+PRT,1987-08-17,Portugal,Silva II
+PRT,1991-10-31,Portugal,Silva III
+PRT,1995-10-28,Portugal,Guterres I
+PRT,1999-10-25,Portugal,Guterres II
+PRT,2002-04-06,Portugal,Barroso
+PRT,2004-07-23,Portugal,Santana Lopes
+PRT,2005-03-12,Portugal,Socrates I
+PRT,2009-10-26,Portugal,Socrates II
+PRT,2011-06-15,Portugal,Passos Coelho I
+PRT,2015-10-30,Portugal,Passos Coelho II
+PRT,2015-11-26,Portugal,Costa I
+PRT,2019-10-26,Portugal,Costa II
+ROU,1990-07-04,Romania,Roman II
+ROU,1991-10-16,Romania,Stolojan
+ROU,1992-11-13,Romania,Vacaroiu I
+ROU,1994-08-18,Romania,Vacaroiu II
+ROU,1996-09-02,Romania,Vacaroiu III
+ROU,1996-12-11,Romania,Ciorbea
+ROU,1998-04-15,Romania,Vasile
+ROU,1999-12-21,Romania,Isarescu
+ROU,2000-12-20,Romania,Nastase I
+ROU,2003-06-19,Romania,Nastase II
+ROU,2004-12-29,Romania,Popescu-Tariceanu I
+ROU,2006-12-07,Romania,Popescu-Tariceanu II
+ROU,2007-04-05,Romania,Popescu-Tariceanu III
+ROU,2008-12-22,Romania,Boc I
+ROU,2009-12-23,Romania,Boc II
+ROU,2010-05-19,Romania,Boc III
+ROU,2012-02-09,Romania,Ungureanu
+ROU,2012-05-07,Romania,Ponta I
+ROU,2012-12-21,Romania,Ponta II
+ROU,2014-03-04,Romania,Ponta III
+ROU,2014-12-15,Romania,Ponta IV
+ROU,2015-11-10,Romania,Ciolos
+ROU,2017-01-04,Romania,Grindeanu
+ROU,2017-06-29,Romania,Tudose
+ROU,2018-01-29,Romania,Dancila I
+ROU,2019-08-26,Romania,Dancila II
+ROU,2019-11-04,Romania,Orban I
+ROU,2020-03-14,Romania,Orban II
+SVK,1990-06-27,Slovakia,Meciar I
+SVK,1991-04-23,Slovakia,Carnogursky
+SVK,1992-06-24,Slovakia,Meciar II
+SVK,1993-01-12,Slovakia,Meciar III
+SVK,1993-03-19,Slovakia,Meciar IV
+SVK,1993-11-17,Slovakia,Meciar V
+SVK,1994-03-16,Slovakia,Moravcik
+SVK,1994-12-13,Slovakia,Meciar VI
+SVK,1998-10-30,Slovakia,Dzurinda I
+SVK,2002-10-16,Slovakia,Dzurinda II
+SVK,2006-02-08,Slovakia,Dzurinda III
+SVK,2006-07-04,Slovakia,Fico I
+SVK,2010-07-08,Slovakia,Radicova I
+SVK,2011-10-20,Slovakia,Radicova II
+SVK,2012-04-04,Slovakia,Fico II
+SVK,2016-03-23,Slovakia,Fico III
+SVK,2016-09-01,Slovakia,Fico IV
+SVK,2018-03-22,Slovakia,Pellegrini
+SVK,2020-03-21,Slovakia,Matovic
+SVN,1990-05-16,Slovenia,Peterle
+SVN,1992-04-22,Slovenia,Drnovsek I
+SVN,1993-01-12,Slovenia,Drnovsek II
+SVN,1994-04-08,Slovenia,Drnovsek III
+SVN,1996-01-26,Slovenia,Drnovsek IV
+SVN,1997-02-27,Slovenia,Drnovsek V
+SVN,2000-06-07,Slovenia,Bajuk
+SVN,2000-11-30,Slovenia,Drnovsek VI
+SVN,2002-12-19,Slovenia,Rop I
+SVN,2004-04-08,Slovenia,Rop II
+SVN,2004-12-03,Slovenia,Jansa I
+SVN,2008-11-21,Slovenia,Pahor I
+SVN,2011-06-27,Slovenia,Pahor II
+SVN,2012-01-28,Slovenia,Jansa II
+SVN,2013-03-20,Slovenia,Bratusek
+SVN,2014-08-25,Slovenia,Cerar
+SVN,2018-08-17,Slovenia,Sarec
+SVN,2020-03-03,Slovenia,Jansa III
+SWE,1911-10-07,Sweden,Staaff
+SWE,1914-02-17,Sweden,Hammarskjold I
+SWE,1914-09-13,Sweden,Hammarskjold II
+SWE,1917-03-13,Sweden,Swartz
+SWE,1917-10-19,Sweden,Eden
+SWE,1920-03-10,Sweden,Branting I
+SWE,1920-10-27,Sweden,De Geer
+SWE,1921-02-23,Sweden,von Sydow
+SWE,1921-10-13,Sweden,Branting II
+SWE,1923-04-19,Sweden,Trygger
+SWE,1924-10-18,Sweden,Branting III
+SWE,1925-01-24,Sweden,Sandler
+SWE,1926-06-07,Sweden,Ekman I
+SWE,1928-10-02,Sweden,Lindman
+SWE,1930-06-07,Sweden,Ekman II
+SWE,1932-09-24,Sweden,Hansson I
+SWE,1936-06-19,Sweden,Pehrsson-Bramstorp
+SWE,1936-09-28,Sweden,Hansson II
+SWE,1939-12-13,Sweden,Hansson III
+SWE,1940-09-15,Sweden,Hansson IV
+SWE,1944-09-17,Sweden,Hansson V
+SWE,1945-07-31,Sweden,Hansson VI
+SWE,1946-10-11,Sweden,Erlander I
+SWE,1948-11-19,Sweden,Erlander II
+SWE,1951-10-01,Sweden,Erlander III
+SWE,1952-09-21,Sweden,Erlander IV
+SWE,1956-09-26,Sweden,Erlander V
+SWE,1957-10-31,Sweden,Erlander VI
+SWE,1958-06-01,Sweden,Erlander VII
+SWE,1960-09-18,Sweden,Erlander VIII
+SWE,1964-09-20,Sweden,Erlander IX
+SWE,1968-09-15,Sweden,Erlander X
+SWE,1969-10-14,Sweden,Palme I
+SWE,1970-09-20,Sweden,Palme II
+SWE,1973-09-16,Sweden,Palme III
+SWE,1976-10-07,Sweden,Falldin I
+SWE,1978-10-13,Sweden,Ullsten
+SWE,1979-10-11,Sweden,Falldin II
+SWE,1981-05-19,Sweden,Falldin III
+SWE,1982-10-07,Sweden,Palme IV
+SWE,1985-09-15,Sweden,Palme V
+SWE,1986-03-12,Sweden,Carlsson I
+SWE,1988-09-18,Sweden,Carlsson II
+SWE,1990-02-26,Sweden,Carlsson III
+SWE,1991-10-03,Sweden,Bildt
+SWE,1994-10-06,Sweden,Carlsson IV
+SWE,1996-03-21,Sweden,Persson I
+SWE,1998-10-07,Sweden,Persson II
+SWE,2002-10-21,Sweden,Persson III
+SWE,2006-10-05,Sweden,Reinfeldt I
+SWE,2010-09-19,Sweden,Reinfeldt II
+SWE,2014-10-02,Sweden,Lofven I
+SWE,2018-09-09,Sweden,Lofven II
+SWE,2019-01-18,Sweden,Lofven III
+TUR,1983-12-13,Turkey,Ozal I
+TUR,1987-12-21,Turkey,Ozal II
+TUR,1990-11-09,Turkey,Akbulut
+TUR,1991-06-23,Turkey,Yilmaz I
+TUR,1991-11-20,Turkey,Demirel
+TUR,1993-06-25,Turkey,Ciller I
+TUR,1995-10-05,Turkey,Ciller II
+TUR,1995-10-31,Turkey,Ciller III
+TUR,1996-03-06,Turkey,Yilmaz II
+TUR,1996-06-28,Turkey,Erbakan
+TUR,1997-06-30,Turkey,Yilmaz III
+TUR,1999-01-11,Turkey,Ecevit I
+TUR,1999-05-28,Turkey,Ecevit II
+TUR,2002-11-16,Turkey,Gul
+TUR,2003-03-14,Turkey,Erdogan I
+TUR,2007-08-29,Turkey,Erdogan II
+TUR,2011-07-06,Turkey,Erdogan III
+TUR,2014-08-28,Turkey,Davutoglu I
+TUR,2015-08-28,Turkey,Davutoglu II
+TUR,2015-11-30,Turkey,Davutoglu III
+TUR,2016-05-24,Turkey,Yildirim
+TUR,2018-07-09,Turkey,Erdogan IV
