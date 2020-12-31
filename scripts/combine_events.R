@@ -44,5 +44,23 @@ data_events <- data_events_raw %>%
   arrange(iso2c, event_date) %>% 
   mutate(description = str_remove(description, ": NA"))
 
-
 write_csv(data_events, "../metaevents.csv")
+
+
+data_events %>% 
+  filter(event_date >= as.Date("1950-01-01")) %>% 
+  filter(!region %in% c("Australia and New Zealand", "Caribbean", "Central Asia",
+                        "Melanesia", "Micronesia", "Polynesia")) %>% 
+  drop_na(region) %>% 
+  ggplot(aes(event_date, fill = category)) +
+  geom_histogram() +
+  theme_minimal() +
+  scale_fill_manual(values = c("#001f3f", "#FF4136", "#3D9970", "#FF851B", "#0074D9")) +
+  facet_wrap(~ region, scales = "free_y") +
+  labs(y = NULL,
+       x = NULL,
+       fill = NULL) +
+  theme(legend.position = "bottom") 
+
+ggsave("../data_events_regions.png", width = 7, height = 7)
+
